@@ -1,0 +1,318 @@
+
+/*Navigation-Bar*/
+.navbar-dark{
+	overflow: hidden;
+	background-color: #333;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 3;
+}
+
+.Shaurya-Logo{
+	width: 50px;
+} 
+
+.Navigation-Bar{
+	background-color: #000000;
+}
+
+.Navigation-Brand{
+	font-family: Oswald;
+	color: #FFFFFF;
+	margin-left: 10px;
+}
+
+.Navigation-Brand:hover{
+	color: #FFFFFF;
+}
+
+.Navigation-Links{
+	color: #F88600;
+	font-family: Oswald;
+	font-size: 1.2rem;
+}
+
+.Navigation-Links:hover{
+	color: #FFFFFF;
+}
+
+.Navbar-List{
+	color: white;
+}
+
+
+/*Home-Carousel*/
+.Empty-Div{
+	height: 63px;
+	width: 100%;
+	background-color: #000000;
+}
+
+/*About Us*/
+.About-Container{
+	text-align: center;
+}
+
+.About-Heading-Text{
+	font-family: 'Oswald', sans-serif;
+	font-size: 2rem;
+	margin-top: 80px;
+}
+
+.About-Line{
+	width: 60px;
+	height: 6px;
+	background-color: #F76300;
+}
+
+.About-Text{
+	font-size: 1.2rem;
+	margin-top: 50px;
+}
+
+.About-Us{
+	color: red;
+}
+
+.Youtube-Video{
+	margin-top: 55px;
+	margin-bottom: 55px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+/*Our Philosophy and Free-Trial*/
+.philosophy{
+	background-color: #F76300;
+	height: 500px;
+}
+
+.freetrial{
+	background-color: #000000;
+	height: 500px;
+}
+
+.PFicons{
+	width: 106px;
+	margin-left: 4px;
+	margin-top: 24px;
+}
+
+.PF-Title-Text{
+	position: relative;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 53px;
+	bottom: 112px;
+	left: 130px;
+	color: #FFFFFF;
+}
+
+.PFLine1{
+	width: 60px;
+	height: 6px;
+	background-color: #000000;
+	position: relative;
+	bottom: 115px;
+	left: 132px;
+}
+
+.PFLine2{
+	width: 60px;
+	height: 6px;
+	background-color: #F76300;
+	position: relative;
+	bottom: 115px;
+	left: 132px;
+}
+
+.PF-Text{
+	position: relative;
+	bottom: 50px; 
+	padding-left: 1%;
+	padding-right: 19%;
+}
+
+.Sign-Up-Button{
+	position: relative;
+	bottom: 40px;
+	left: 5px;
+}
+
+.Contact-Button{
+	position: relative;
+	left: 5px;
+}
+
+.Sign-Up-Button:hover{
+	background-color: #FFFFFF;
+}
+
+.Contact-Button:hover{
+	background-color: #000000;
+}
+
+/*We-Offer*/
+.We-Offer-Title{
+	font-family: Oswald;
+	font-size: 2rem;
+	position: relative;
+	top: 65px;
+}
+
+.We-Offer-Line{
+	width: 60px;
+	height: 6px;
+	background-color: #F76300;
+	position: relative;
+	top: 70px;
+}
+
+.We-Offer-Cards{
+	margin-top: 50px;
+	text-align: center;
+}
+
+.Offer-Cards{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+/*Testimonial-Container*/
+.Testimonial-Title{
+	width: 100%;
+	height: 157px;
+	text-align: center;
+	
+	background-color: #000000;
+}
+
+.Testimonial-Title-Text{
+	font-family: 'Oswald', sans-serif;
+	position: relative;
+	top: 50px;
+
+	color: white;
+}
+
+.Testimonial-Line1{
+	width: 60px;
+	height: 6px;
+	position: relative;
+	margin-top: 75px;
+	margin-left: auto;
+	margin-right: auto;
+
+	background-color: #F76300;
+}
+
+.Testimonial-Background{
+	background-color: #000;
+	text-align: center;
+	color: white;
+}
+
+.Testimonial-Text{
+	color: white;
+	padding-left: 25%;
+	padding-right: 25%;	
+	padding-bottom: 50px;
+
+}
+
+.client{
+	width: 150px;
+}
+
+.client-name{
+	padding-top: 20px;
+}
+
+/*Contact-Container*/
+.Contact-Container{
+	text-align: center;
+	color: #f76300;
+}
+
+.contacts{
+	padding-top: 8%
+}
+
+.contact-icon{
+	width: 150px;
+	padding-bottom: 2%;
+}
+
+.Contact-Container-Title{
+	font-family: 'Oswald', sans-serif;
+}
+
+.card3{
+	padding-bottom: 6%;
+}
+
+.Contact-Form{
+	width: 100%
+	height: 500px;
+	background-color: #000000;
+}
+
+.Form{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.contactpage{
+	padding-top: 7%;
+	padding-bottom: 5%;
+}
+
+.Contact-Form-Title{
+	text-align: center;
+	font-family: Oswald;
+	font-size: 2.5rem;
+	color: #FFFFFF;
+	position: relative;
+	top: 70px;
+
+}
+
+.Contact-Inputs{
+	width: 50%;
+	height: 50px;
+	margin-top: 1%;
+}
+
+.Form{
+	text-align: center;
+}
+
+.Form-Line{
+	width: 60px;
+	height: 6px;
+	background-color: #F76300;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 35px;
+}
+
+/*Footer*/
+.Footer{
+	background-color: black;
+	width: 100%;
+	height: 60px;
+	text-align: center;
+}
+
+.Social-Media-Icons{
+	margin-top: 15px;
+	margin-left: 35px;
+	margin-right: 35px;
+	width: 30px;
+}
+
